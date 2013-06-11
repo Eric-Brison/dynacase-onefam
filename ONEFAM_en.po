@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZOO\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 16:03+0200\n"
+"POT-Creation-Date: 2013-06-11 16:03+0200\n"
 "PO-Revision-Date: 2013-04-04 09:46+0200\n"
 "Last-Translator: John Doe <john.doe@somewhere.org>\n"
 "Language-Team: English <distrib@somewhere.org>\n"
@@ -21,7 +21,7 @@ msgstr "Access choose masters families"
 
 #: tempCatalog.php:32 tempCatalog.php:34
 msgid "Choose visibles families"
-msgstr "Start search"
+msgstr ""
 
 #: tempCatalog.php:37
 msgid "Close"
@@ -61,7 +61,7 @@ msgstr "Generic Management"
 
 #: tempCatalog.php:36
 msgid "No family first"
-msgstr "Start search"
+msgstr ""
 
 #: tempCatalog.php:5
 msgid "ONEFAM:Loading"
@@ -238,7 +238,7 @@ msgstr "Edit"
 
 #: tempCatalog.php:4 tempCatalog.php:12
 msgid "choose user families"
-msgstr "Start search"
+msgstr ""
 
 #: ONEFAM_init.php:61
 msgid "default background color"
@@ -246,7 +246,7 @@ msgstr "default background color"
 
 #: ONEFAM_init.php:53
 msgid "default opened family"
-msgstr "Delete"
+msgstr ""
 
 #: ONEFAM_init.php:68
 msgid "display mode"
@@ -262,11 +262,11 @@ msgstr "edit preferences"
 
 #: ONEFAM.app:50
 msgid "familly list"
-msgstr "Start search"
+msgstr ""
 
 #: ONEFAM.app:60
 msgid "familly result"
-msgstr "Start search"
+msgstr ""
 
 #: ONEFAM_init.php:75
 msgid "family configuration"
@@ -298,7 +298,7 @@ msgstr "icon column number"
 
 #: tempCatalog.php:3 tempCatalog.php:11
 msgid "master choose families"
-msgstr "Start search"
+msgstr ""
 
 #: ONEFAM.app:88 ONEFAM_EXT/programs/initOnefamExt.php:27
 msgid "modify master preferences"
@@ -310,7 +310,7 @@ msgstr "Modify"
 
 #: ONEFAM.app:39
 msgid "one familly root"
-msgstr "Start search"
+msgstr ""
 
 #: ONEFAM_EXT/programs/initOnefamExt.php:16
 msgid "one family extjs view"
@@ -318,7 +318,7 @@ msgstr "one family extjs view"
 
 #: ONEFAM.app:45
 msgid "one family generic root"
-msgstr "Start search"
+msgstr ""
 
 #: tempCatalog.php:35
 msgid "open first family"
@@ -330,7 +330,7 @@ msgstr "other families"
 
 #: ONEFAM.app:55
 msgid "redirect to generic"
-msgstr "Start search"
+msgstr ""
 
 #: tempCatalog.php:33
 msgid "set as first family view"
@@ -346,11 +346,11 @@ msgstr "specific family menu"
 
 #: ONEFAM_init.php:30
 msgid "visible master families"
-msgstr "Start search"
+msgstr ""
 
 #: ONEFAM_init.php:24
 msgid "visible user families"
-msgstr "Start search"
+msgstr ""
 
 #~ msgid "ONEFAM:SEARCH_MANAGEMENT:Selected as default search"
 #~ msgstr "Selected as default search"
