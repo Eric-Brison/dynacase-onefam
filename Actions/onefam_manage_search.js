@@ -185,7 +185,7 @@
         }
         if ($abstract.data("is-in-family-dir") === "none") {
             $subMenuShare.hide();
-            $subMenuFilter.show();
+            $subMenuFilter.hide();
         } else {
             $subMenuShare.show();
             if ($abstract.data("is-in-family-dir")) {
@@ -197,6 +197,12 @@
                 $shareText.show();
                 $unshareText.hide();
                 $subMenuFilter.show();
+            }
+
+            if (! $abstract.data("can-modify-family-dir")) {
+                $subMenuShare.hide();
+                $shareText.hide();
+                $unshareText.hide();
             }
         }
         if ($abstract.data("is-default")) {
